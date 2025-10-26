@@ -6,11 +6,11 @@
 # TODO: Update site_description
 # TODO: Update site_author
 
-site_name: Applied ML Project
-site_url: https://denisecase.github.io/applied-ml-template/
-repo_url: https://github.com/denisecase/applied-ml-template
+site_name: ml-learning
+site_url: https://github.com/jarjarredred/ml-modules
+repo_url: https://github.com/jarjarredred/ml-modules
 site_description: Professional applied ML project
-site_author: Denise Case
+site_author: Jarred Gastreich
 docs_dir: docs
 site_dir: site
 
@@ -63,7 +63,7 @@ markdown_extensions:
   - pymdownx.details # Collapsible sections
 
 nav:
-  - Home: index.md
+  - Home: ml-modules.md
   - Project 01:
       - Overview: project01/README.md
       - Example Analysis: project01/EXAMPLE_ANALYSIS.md
