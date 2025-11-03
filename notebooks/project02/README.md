@@ -1,4 +1,5 @@
-Module 2 Titanic Dataset
+# Module 2 Titanic Dataset
+## by Jarred Gastreich
 
 # ml-modules is a collection Machine Learning projects by Jarred Gastreich
 
