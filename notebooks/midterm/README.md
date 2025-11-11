@@ -3,6 +3,22 @@
 
 # ml-modules is a collection Machine Learning projects by Jarred Gastreich
 
+## Titanic Dataset Description
+Ability to explore characteristics that contributed to the 891 surviving passengers out of the 2214 on board the Titanic.
+
+### Dataset Features
+survived: Survival status (0 = No, 1 = Yes)
+pclass: Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd)
+sex: Passenger's gender (male or female)
+age: Passenger's age in years
+sibsp: Number of siblings or spouses aboard
+parch: Number of parents or children aboard
+fare: Passenger fare
+embarked: Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+name: Passenger's name
+ticket: Ticket number
+cabin: Cabin number
+passengerid: Unique passenger identifier 
 
 ## Folders for Projects
 
