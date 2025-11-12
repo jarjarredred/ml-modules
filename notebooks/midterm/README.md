@@ -3,6 +3,9 @@
 
 # ml-modules is a collection Machine Learning projects by Jarred Gastreich
 
+### Notebook link:
+https://github.com/jarjarredred/ml-modules/blob/main/notebooks/midterm/mlmidterm_jarred.ipynb
+
 ## Titanic Dataset Description
 Ability to explore characteristics that contributed to the 891 surviving passengers out of the 2214 on board the Titanic.
 
