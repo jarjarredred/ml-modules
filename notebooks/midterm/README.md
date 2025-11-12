@@ -6,6 +6,9 @@
 ### Notebook link:
 https://github.com/jarjarredred/ml-modules/blob/main/notebooks/midterm/mlmidterm_jarred.ipynb
 
+### Peer Review link
+https://github.com/jarjarredred/ml-modules/blob/main/notebooks/midterm/peer_review.md
+
 ## Titanic Dataset Description
 Ability to explore characteristics that contributed to the 891 surviving passengers out of the 2214 on board the Titanic.
 
